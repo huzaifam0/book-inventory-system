@@ -1,0 +1,5 @@
+Between Shades of Gray,12,12.0
+Maus,12,12.0
+Medicine Walk,13,13.0
+The Great Gatsby,12,14.0
+The Hate U Give,15,15.0
